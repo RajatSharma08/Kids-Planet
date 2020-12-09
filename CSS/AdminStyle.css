@@ -1,0 +1,58 @@
+﻿body {
+    background:skyblue;
+}
+* {
+padding:0px;
+margin:0px;
+}
+#outer {
+height:auto;
+width:1000px;
+}
+#header {
+height :150px;
+width:1000px;
+}
+#logo {
+height :150px;
+width:150px;
+float:left;
+}
+#sitetitle {
+height:110px;
+width:850px;
+padding-top:40px;
+color:darkred;
+float:left;
+text-align:center;
+font-size:80px;
+text-shadow:4px 4px 4px black;
+background:orange;
+}
+#menu {
+height:550px;
+width:200px;
+float:left;
+background:-webkit-linear-gradient(skyblue,white);
+}
+#content {
+height:550px;
+width:800px;
+float:left;
+background:white;
+}
+#footer {
+height:50px;
+width:1000px;
+background:black;
+margin-top:2px;
+}
+#fpart {
+height:35px;
+padding-top:15px;
+width:500px;
+float:left;
+font-weight:bold;
+color:white;
+text-align:center;
+}

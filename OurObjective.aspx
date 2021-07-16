@@ -55,7 +55,7 @@ Development</li>
 <li>An Interactive And Visual Learning Pattern That Understood By The Kids</li>
 <li>Providing An Efficient And Cost Saving Way To Learn Anything From The Site Which Helps
 In The Overall Development Of Kids.</li>
-<li>Building The Interest Of Kids In Enjoyable Way.</li>
+<li>Building The Interest Of Kids in an Enjoyable Way.</li>
 </ul></h3>
  
 </asp:Content>
